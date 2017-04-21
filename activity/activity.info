@@ -1,0 +1,10 @@
+[Activity]
+name = GCompris Clickgame 
+activity_version = 11
+host_version = 1
+service_name = net.gcompris.clickgameActivity
+bundle_id = net.gcompris.clickgameActivity
+icon = activity-gcompris
+exec = gcompris-activity
+show_launcher = yes
+license = GPLv3+
